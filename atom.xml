@@ -3,13 +3,36 @@
   <title>Gossip</title>
   
   <subtitle>Gossip BLOG</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://ellensong.github.io/"/>
-  <updated>2017-10-17T11:21:29.088Z</updated>
+  <updated>2017-10-29T11:00:13.220Z</updated>
   <id>https://ellensong.github.io/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://ellensong.github.io/2017/10/29/test3/"/>
+    <id>https://ellensong.github.io/2017/10/29/test3/</id>
+    <published>2017-10-29T10:58:56.290Z</published>
+    <updated>2017-10-29T11:00:13.220Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="test3"><a href="#test3" class="headerlink" title="test3"></a>test3</h2><p>blabla</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;h2 id=&quot;test3&quot;&gt;&lt;a href=&quot;#test3&quot; class=&quot;headerlink&quot; title=&quot;test3&quot;&gt;&lt;/a&gt;test3&lt;/h2&gt;&lt;p&gt;blabla&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title></title>
